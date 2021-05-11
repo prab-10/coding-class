@@ -1,33 +1,4 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@neelimadevi23 
-AshokDon
-/
-Prefix_Sum-C-
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Prefix_Sum-C-/3rd_subarray_sum_equal_to_zero.cpp
-@AshokDon
-AshokDon Rename subarray_sum_equal_to_zero.cpp to 3rd_subarray_sum_equal_to_ze…
-…
-Latest commit 1a3f176 yesterday
- History
- 1 contributor
-25 lines (23 sloc)  449 Bytes
   
 //count the sub arrays whose sum is equal to zero or k
 #include <iostream>
